@@ -26,6 +26,7 @@ This project is an Image Classification Model using TensorFlow and CNN.
     ├── car2.jpg
     ├── car3.jpg
     └── ...
+    if this not showing properly just copy and paste in your notepad for proper visible dataset
 
 ## Technologies Used
 - Python
